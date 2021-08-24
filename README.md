@@ -1,7 +1,4 @@
 # Exercise--Upload-a-Package-to-PyPi-Udacity
-Creation of a Python package to plot a well-formatted and well-labeled line graph for a time series.
-
-![Image](meals_served_overtime.png)
 
 ## Installation
  The package can be installed using `pip install line-graph`. <br>
@@ -10,3 +7,19 @@ Creation of a Python package to plot a well-formatted and well-labeled line grap
  - `numpy`
  - `pandas`
  - `plotly`
+
+## Exercise Goal
+
+The project was completed in a series of exercises to familiarize with writing **object-oriented programming** code as part of the Data Science Nanodegree on www.udacity.com.
+The Python package `line-graph` creates a **well-formatted** and **well-labeled line graph** for a **time series** and has been uploaded to PyPi www.pypi.org.
+
+![Image](meals_served_overtime.png)
+
+## File Description
+
+- line_graph_package_example.ipynb contains an example of using the package to reproduce the above figure.
+
+
+## Licensing, Authors, Acknowledgments
+
+Open-source data from https://www.storytellingwithdata.com/letspractice/downloads, Exercise 2.2.
