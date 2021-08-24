@@ -36,7 +36,8 @@ Attributes:
 Methods:
 
 * line_plot() - plot a line graph for the time series, the average line, all the annotations including a box containig the main highlights
-* save_fig(name) - save plot as png
+* save_fig_png(name) - save plot as png
+* save_fig_html(name) - save plot as html
 
 
 # Installation
